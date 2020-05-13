@@ -1,0 +1,25 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "This is  our practice repository ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akankshajha12/DSA.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akankshajha12/DSA/issues"
+  },
+  "homepage": "https://github.com/akankshajha12/DSA#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
